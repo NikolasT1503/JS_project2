@@ -1,0 +1,19 @@
+{
+  "name": "js_project2",
+  "version": "1.0.0",
+  "description": "второй JS проект",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolasT1503/JS_project2.git"
+  },
+  "author": "Tulonov NK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolasT1503/JS_project2/issues"
+  },
+  "homepage": "https://github.com/NikolasT1503/JS_project2#readme"
+}
